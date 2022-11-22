@@ -1,1 +1,3 @@
 # yfinance
+本次報告為11/9論文導讀yfinance作業，用pandas方式撰寫，透過paper中的公式先出抓取Volume及Date資料，再套入公式來做出最後結果。
+因為資料格式問題，有先進行新資料表匯出
